@@ -10,7 +10,7 @@
 
 👨‍🎓 ITMO University 4rd year student, faculty FITIP IS'25.
 
-👨‍💻 Golang Developer - [Ozon](https://www.ozon.ru/)
+👨‍💻 Software Developer - [Ozon](https://www.ozon.ru/)
 
 👨‍🏫 Currently working on:
    - Backend (`Golang`)
